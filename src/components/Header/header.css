@@ -1,0 +1,37 @@
+.header {
+    text-align: center;
+}
+.header img {
+    padding-top: 30px;
+    width: 250px;
+}
+.header nav {
+    background-color: rgb(174, 0, 227);
+    margin-top: 30px;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navright {
+    display: flex;
+}
+.navright i {
+    line-height: 63px;
+    padding-right: 8px;
+    color: #fff;
+}
+.navright h3 {
+    color: #fff;
+}
+nav a {
+    text-decoration: none;
+    font-size: 16px;
+    color: #fff;
+    margin-right: 20px;
+    padding: 7px;
+}
+nav a:hover {
+    background-color: rgb(145, 0, 189);
+}

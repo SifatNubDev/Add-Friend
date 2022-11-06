@@ -1,0 +1,8 @@
+.main h1{
+    text-align: center;
+    margin: 30px;
+}
+.friends {
+    display: flex;
+    flex-wrap: wrap;
+}

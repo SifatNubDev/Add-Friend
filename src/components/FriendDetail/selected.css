@@ -1,0 +1,6 @@
+.selected {
+    text-align: center;
+}
+.selected li {
+    list-style-type: none;
+}
